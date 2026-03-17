@@ -1,0 +1,513 @@
+[
+  {
+    "video_id": "000001",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000002",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000003",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a erhu sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "pipa, erhu",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000004",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a pipa sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "pipa, erhu",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000005",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000006",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000007",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a bassoon sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, bassoon",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000008",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a bassoon sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, bassoon",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000009",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a guzheng sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "acoustic_guitar, guzheng",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000010",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "acoustic_guitar, guzheng",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000011",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a bassoon sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, bassoon",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000012",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000013",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000014",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a erhu sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "guzheng, erhu",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000015",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a guzheng sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "guzheng, erhu",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000016",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a drum sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, drum",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000017",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, drum",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000018",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a accordion sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "drum, accordion",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000019",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000020",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a ukulele sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000021",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000022",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000023",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a clarinet sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, clarinet",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000024",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a ukulele sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, clarinet",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000025",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000026",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a ukulele sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000027",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a accordion sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, accordion",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000028",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "guzheng, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000029",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a guzheng sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "guzheng, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000030",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, piano",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000031",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, piano",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000032",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000033",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a ukulele sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000034",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a tuba sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "tuba, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000035",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000036",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000037",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a acoustic_guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000038",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "cello, acoustic_guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000039",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, piano",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000040",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, piano",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000041",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a clarinet sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, clarinet",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000042",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is thera a ukulele sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "ukulele, clarinet",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000043",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000044",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000045",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000046",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000047",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a erhu sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, zither",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000048",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a zither sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, zither",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000049",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000050",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000051",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000052",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000053",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000054",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a guitar sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, guitar",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000055",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000056",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "flute, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000057",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000058",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000059",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000060",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a flute sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "violin, flute",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000061",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a erhu sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, zither",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000062",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a zither sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, zither",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000063",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000064",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000065",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a erhu sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000066",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "erhu, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000067",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000068",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000069",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000070",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, cello",
+    "instruments_len": "two"
+  },
+  {
+    "video_id": "000071",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a piano sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin, cello",
+    "instruments_len": "three"
+  },
+  {
+    "video_id": "000072",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a violin sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin, cello",
+    "instruments_len": "three"
+  },
+  {
+    "video_id": "000073",
+    "question": "This is a video of audio corruption where some instrument sound is muted. Please answer:\n Is there a cello sound? \nYour answer can only be 'yes' or 'no'",
+    "answer": "no",
+    "instruments": "piano, violin, cello",
+    "instruments_len": "three"
+  }
+]

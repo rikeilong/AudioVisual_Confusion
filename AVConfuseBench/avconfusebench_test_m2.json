@@ -1,0 +1,702 @@
+[
+  {
+    "video_id": "000001",
+    "filename": "combined_000001_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The person on the left is using a saxophone, and the person on the right is using an electric guitar. Both have crew cuts and are wearing five-inch shorts. The person on the left is dressed in a shirt, while the person on the right is in a black T-shirt. Behind them, there is a black-and-white painting featuring a huge human face, with black areas representing the shadows of the facial features. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000002",
+    "filename": "combined_000002_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The person on the left is using a saxophone, and the person on the right is using an electric guitar. Both have crew cuts and are wearing five-inch shorts. The person on the left is dressed in a shirt, while the person on the right is in a black T-shirt. Behind them, there is a black-and-white painting featuring a huge human face, with black areas representing the shadows of the facial features. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000003",
+    "filename": "combined_000003_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The person on the left is using a saxophone, and the person on the right is using an electric guitar. Both have crew cuts and are wearing five-inch shorts. The person on the left is dressed in a shirt, while the person on the right is in a black T-shirt. Behind them, there is a black-and-white painting featuring a huge human face, with black areas representing the shadows of the facial features. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000004",
+    "filename": "combined_000004_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The person on the left is using a saxophone, and the person on the right is using an electric guitar. Both have crew cuts and are wearing five-inch shorts. The person on the left is dressed in a shirt, while the person on the right is in a black T-shirt. Behind them, there is a black-and-white painting featuring a huge human face, with black areas representing the shadows of the facial features. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000005",
+    "filename": "combined_000005_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The person on the left is using a saxophone, and the person on the right is using an electric guitar. Both have crew cuts and are wearing five-inch shorts. The person on the left is dressed in a shirt, while the person on the right is in a black T-shirt. Behind them, there is a black-and-white painting featuring a huge human face, with black areas representing the shadows of the facial features. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000006",
+    "filename": "combined_000006_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen playing the piano, a man and a woman, performing a four-hand piano duet. They sway their bodies while playing, completely immersed in the music. Throughout the video, the perspective shifts constantly, including frontal views, side views, overhead shots, and close-ups of their hands as they play the piano. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000007",
+    "filename": "combined_000007_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen playing the piano, a man and a woman, performing a four-hand piano duet. They sway their bodies while playing, completely immersed in the music. Throughout the video, the perspective shifts constantly, including frontal views, side views, overhead shots, and close-ups of their hands as they play the piano. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000008",
+    "filename": "combined_000008_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen playing the piano, a man and a woman, performing a four-hand piano duet. They sway their bodies while playing, completely immersed in the music. Throughout the video, the perspective shifts constantly, including frontal views, side views, overhead shots, and close-ups of their hands as they play the piano. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000009",
+    "filename": "combined_000009_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen playing the piano, a man and a woman, performing a four-hand piano duet. They sway their bodies while playing, completely immersed in the music. Throughout the video, the perspective shifts constantly, including frontal views, side views, overhead shots, and close-ups of their hands as they play the piano. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000010",
+    "filename": "combined_000010_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen playing the piano, a man and a woman, performing a four-hand piano duet. They sway their bodies while playing, completely immersed in the music. Throughout the video, the perspective shifts constantly, including frontal views, side views, overhead shots, and close-ups of their hands as they play the piano. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000011",
+    "filename": "combined_000011_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The man on the left, who has a sturdy build, is playing a ukulele. The woman on the right is playing a guitar. They coordinate with each other, completely immersed in the world of music. Behind them, there are rows of ukuleles and guitars. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000012",
+    "filename": "combined_000012_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The man on the left, who has a sturdy build, is playing a ukulele. The woman on the right is playing a guitar. They coordinate with each other, completely immersed in the world of music. Behind them, there are rows of ukuleles and guitars. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000013",
+    "filename": "combined_000013_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The man on the left, who has a sturdy build, is playing a ukulele. The woman on the right is playing a guitar. They coordinate with each other, completely immersed in the world of music. Behind them, there are rows of ukuleles and guitars. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000014",
+    "filename": "combined_000014_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The man on the left, who has a sturdy build, is playing a ukulele. The woman on the right is playing a guitar. They coordinate with each other, completely immersed in the world of music. Behind them, there are rows of ukuleles and guitars. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000015",
+    "filename": "combined_000015_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen playing musical instruments. The man on the left, who has a sturdy build, is playing a ukulele. The woman on the right is playing a guitar. They coordinate with each other, completely immersed in the world of music. Behind them, there are rows of ukuleles and guitars. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000016",
+    "filename": "combined_000016_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, a bald middle-aged man in a suit can be seen playing a banjo, an instrument that is not very common. Suddenly, two other men, also dressed in suits, emerge from the curtain behind him—one playing a trumpet and the other a baritone saxophone. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000017",
+    "filename": "combined_000017_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, a bald middle-aged man in a suit can be seen playing a banjo, an instrument that is not very common. Suddenly, two other men, also dressed in suits, emerge from the curtain behind him—one playing a trumpet and the other a baritone saxophone. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000018",
+    "filename": "combined_000018_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, a bald middle-aged man in a suit can be seen playing a banjo, an instrument that is not very common. Suddenly, two other men, also dressed in suits, emerge from the curtain behind him—one playing a trumpet and the other a baritone saxophone. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000019",
+    "filename": "combined_000019_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, a bald middle-aged man in a suit can be seen playing a banjo, an instrument that is not very common. Suddenly, two other men, also dressed in suits, emerge from the curtain behind him—one playing a trumpet and the other a baritone saxophone. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000020",
+    "filename": "combined_000020_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, a bald middle-aged man in a suit can be seen playing a banjo, an instrument that is not very common. Suddenly, two other men, also dressed in suits, emerge from the curtain behind him—one playing a trumpet and the other a baritone saxophone. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000021",
+    "filename": "combined_000021_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, four women dressed in white long dresses can be seen giving a musical performance. From left to right, except that the second woman is playing a cello, the other three are all playing violins. There are music scores placed on stands in front of them. They coordinate with each other, forming a complete musical performance. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000022",
+    "filename": "combined_000022_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, four women dressed in white long dresses can be seen giving a musical performance. From left to right, except that the second woman is playing a cello, the other three are all playing violins. There are music scores placed on stands in front of them. They coordinate with each other, forming a complete musical performance. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000023",
+    "filename": "combined_000023_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, four women dressed in white long dresses can be seen giving a musical performance. From left to right, except that the second woman is playing a cello, the other three are all playing violins. There are music scores placed on stands in front of them. They coordinate with each other, forming a complete musical performance. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000024",
+    "filename": "combined_000024_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, four women dressed in white long dresses can be seen giving a musical performance. From left to right, except that the second woman is playing a cello, the other three are all playing violins. There are music scores placed on stands in front of them. They coordinate with each other, forming a complete musical performance. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000025",
+    "filename": "combined_000025_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, four women dressed in white long dresses can be seen giving a musical performance. From left to right, except that the second woman is playing a cello, the other three are all playing violins. There are music scores placed on stands in front of them. They coordinate with each other, forming a complete musical performance. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000026",
+    "filename": "combined_000026_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, a group of people can be seen attending a party on a lawn, with a circle of trees around them. Three boys in the shot are playing musical instruments; from left to right, they are using a cello, a saxophone, and an electric guitar respectively. The people behind them are chatting and dancing to the music. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000027",
+    "filename": "combined_000027_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, a group of people can be seen attending a party on a lawn, with a circle of trees around them. Three boys in the shot are playing musical instruments; from left to right, they are using a cello, a saxophone, and an electric guitar respectively. The people behind them are chatting and dancing to the music. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000028",
+    "filename": "combined_000028_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, a group of people can be seen attending a party on a lawn, with a circle of trees around them. Three boys in the shot are playing musical instruments; from left to right, they are using a cello, a saxophone, and an electric guitar respectively. The people behind them are chatting and dancing to the music. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000029",
+    "filename": "combined_000029_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, a group of people can be seen attending a party on a lawn, with a circle of trees around them. Three boys in the shot are playing musical instruments; from left to right, they are using a cello, a saxophone, and an electric guitar respectively. The people behind them are chatting and dancing to the music. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000030",
+    "filename": "combined_000030_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, a group of people can be seen attending a party on a lawn, with a circle of trees around them. Three boys in the shot are playing musical instruments; from left to right, they are using a cello, a saxophone, and an electric guitar respectively. The people behind them are chatting and dancing to the music. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000031",
+    "filename": "combined_000031_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, it starts with frames of paintings in a European style from the last century, including harbor ships, residential buildings and streets where people live, and two people eating noodles with their hands. Then, it cuts to a real scene where an old man is playing the accordion. The old man is sitting on the right, and there is a painting on the left. Meanwhile, during the accordion performance, a black-and-white video clip of two people dancing is inserted, along with some paintings in the same style as those at the beginning. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000032",
+    "filename": "combined_000032_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, it starts with frames of paintings in a European style from the last century, including harbor ships, residential buildings and streets where people live, and two people eating noodles with their hands. Then, it cuts to a real scene where an old man is playing the accordion. The old man is sitting on the right, and there is a painting on the left. Meanwhile, during the accordion performance, a black-and-white video clip of two people dancing is inserted, along with some paintings in the same style as those at the beginning. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000033",
+    "filename": "combined_000033_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, it starts with frames of paintings in a European style from the last century, including harbor ships, residential buildings and streets where people live, and two people eating noodles with their hands. Then, it cuts to a real scene where an old man is playing the accordion. The old man is sitting on the right, and there is a painting on the left. Meanwhile, during the accordion performance, a black-and-white video clip of two people dancing is inserted, along with some paintings in the same style as those at the beginning. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000034",
+    "filename": "combined_000034_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, it starts with frames of paintings in a European style from the last century, including harbor ships, residential buildings and streets where people live, and two people eating noodles with their hands. Then, it cuts to a real scene where an old man is playing the accordion. The old man is sitting on the right, and there is a painting on the left. Meanwhile, during the accordion performance, a black-and-white video clip of two people dancing is inserted, along with some paintings in the same style as those at the beginning. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000035",
+    "filename": "combined_000035_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, it starts with frames of paintings in a European style from the last century, including harbor ships, residential buildings and streets where people live, and two people eating noodles with their hands. Then, it cuts to a real scene where an old man is playing the accordion. The old man is sitting on the right, and there is a painting on the left. Meanwhile, during the accordion performance, a black-and-white video clip of two people dancing is inserted, along with some paintings in the same style as those at the beginning. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000036",
+    "filename": "combined_000036_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, wearing a black top and a baseball cap worn backwards, is playing the saxophone. The man on the right, dressed in a floral shirt, is playing an electric guitar. Behind them is what appears to be a music studio, as there are audio equipment and other such devices present. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000037",
+    "filename": "combined_000037_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, wearing a black top and a baseball cap worn backwards, is playing the saxophone. The man on the right, dressed in a floral shirt, is playing an electric guitar. Behind them is what appears to be a music studio, as there are audio equipment and other such devices present. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000038",
+    "filename": "combined_000038_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, wearing a black top and a baseball cap worn backwards, is playing the saxophone. The man on the right, dressed in a floral shirt, is playing an electric guitar. Behind them is what appears to be a music studio, as there are audio equipment and other such devices present. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000039",
+    "filename": "combined_000039_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, wearing a black top and a baseball cap worn backwards, is playing the saxophone. The man on the right, dressed in a floral shirt, is playing an electric guitar. Behind them is what appears to be a music studio, as there are audio equipment and other such devices present. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000040",
+    "filename": "combined_000040_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, wearing a black top and a baseball cap worn backwards, is playing the saxophone. The man on the right, dressed in a floral shirt, is playing an electric guitar. Behind them is what appears to be a music studio, as there are audio equipment and other such devices present. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000041",
+    "filename": "combined_000041_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two children can be seen practicing musical instruments. The little boy standing on the left is playing the violin, while the little girl sitting on the right is playing the piano. There is a sofa behind them, and photos are pasted on the wall, making it look like a living room in a family home. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000042",
+    "filename": "combined_000042_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two children can be seen practicing musical instruments. The little boy standing on the left is playing the violin, while the little girl sitting on the right is playing the piano. There is a sofa behind them, and photos are pasted on the wall, making it look like a living room in a family home. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000043",
+    "filename": "combined_000043_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two children can be seen practicing musical instruments. The little boy standing on the left is playing the violin, while the little girl sitting on the right is playing the piano. There is a sofa behind them, and photos are pasted on the wall, making it look like a living room in a family home. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000044",
+    "filename": "combined_000044_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two children can be seen practicing musical instruments. The little boy standing on the left is playing the violin, while the little girl sitting on the right is playing the piano. There is a sofa behind them, and photos are pasted on the wall, making it look like a living room in a family home. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000045",
+    "filename": "combined_000045_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two children can be seen practicing musical instruments. The little boy standing on the left is playing the violin, while the little girl sitting on the right is playing the piano. There is a sofa behind them, and photos are pasted on the wall, making it look like a living room in a family home. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000046",
+    "filename": "combined_000046_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, four men can be seen playing bassoons. They are seated in a row from left to right, with sheet music placed on stands in front of each of them. Behind them, there is a piano, but no one is playing it. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000047",
+    "filename": "combined_000047_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, four men can be seen playing bassoons. They are seated in a row from left to right, with sheet music placed on stands in front of each of them. Behind them, there is a piano, but no one is playing it. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000048",
+    "filename": "combined_000048_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, four men can be seen playing bassoons. They are seated in a row from left to right, with sheet music placed on stands in front of each of them. Behind them, there is a piano, but no one is playing it. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000049",
+    "filename": "combined_000049_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, four men can be seen playing bassoons. They are seated in a row from left to right, with sheet music placed on stands in front of each of them. Behind them, there is a piano, but no one is playing it. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000050",
+    "filename": "combined_000050_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, four men can be seen playing bassoons. They are seated in a row from left to right, with sheet music placed on stands in front of each of them. Behind them, there is a piano, but no one is playing it. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000051",
+    "filename": "combined_000051_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, three children can be seen performing musical instruments. The little girl on the left is playing the violin. The little boy in the middle, wearing a dark blue top, is also holding a violin but seems to be waiting for the girl to finish playing. The little boy on the far right, dressed in a blue coat, is sitting and playing the piano, accompanying the girl. There are two or three audience members below. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000052",
+    "filename": "combined_000052_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, three children can be seen performing musical instruments. The little girl on the left is playing the violin. The little boy in the middle, wearing a dark blue top, is also holding a violin but seems to be waiting for the girl to finish playing. The little boy on the far right, dressed in a blue coat, is sitting and playing the piano, accompanying the girl. There are two or three audience members below. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000053",
+    "filename": "combined_000053_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, three children can be seen performing musical instruments. The little girl on the left is playing the violin. The little boy in the middle, wearing a dark blue top, is also holding a violin but seems to be waiting for the girl to finish playing. The little boy on the far right, dressed in a blue coat, is sitting and playing the piano, accompanying the girl. There are two or three audience members below. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000054",
+    "filename": "combined_000054_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, three children can be seen performing musical instruments. The little girl on the left is playing the violin. The little boy in the middle, wearing a dark blue top, is also holding a violin but seems to be waiting for the girl to finish playing. The little boy on the far right, dressed in a blue coat, is sitting and playing the piano, accompanying the girl. There are two or three audience members below. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000055",
+    "filename": "combined_000055_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, three children can be seen performing musical instruments. The little girl on the left is playing the violin. The little boy in the middle, wearing a dark blue top, is also holding a violin but seems to be waiting for the girl to finish playing. The little boy on the far right, dressed in a blue coat, is sitting and playing the piano, accompanying the girl. There are two or three audience members below. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000056",
+    "filename": "combined_000056_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The girl on the left, wearing a pink long dress, is playing a flute, while the boy on the right, dressed in a white polo shirt, is playing a clarinet. Behind them are tall green grasses, indicating that they are outdoors. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000057",
+    "filename": "combined_000057_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The girl on the left, wearing a pink long dress, is playing a flute, while the boy on the right, dressed in a white polo shirt, is playing a clarinet. Behind them are tall green grasses, indicating that they are outdoors. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000058",
+    "filename": "combined_000058_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The girl on the left, wearing a pink long dress, is playing a flute, while the boy on the right, dressed in a white polo shirt, is playing a clarinet. Behind them are tall green grasses, indicating that they are outdoors. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000059",
+    "filename": "combined_000059_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The girl on the left, wearing a pink long dress, is playing a flute, while the boy on the right, dressed in a white polo shirt, is playing a clarinet. Behind them are tall green grasses, indicating that they are outdoors. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000060",
+    "filename": "combined_000060_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The girl on the left, wearing a pink long dress, is playing a flute, while the boy on the right, dressed in a white polo shirt, is playing a clarinet. Behind them are tall green grasses, indicating that they are outdoors. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000061",
+    "filename": "combined_000061_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left, wearing a black short-sleeved top, is playing an electronic organ, while the boy on the right, in a red-and-black long-sleeved top, is playing the violin. Judging from their background, they should be on a balcony at home. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000062",
+    "filename": "combined_000062_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left, wearing a black short-sleeved top, is playing an electronic organ, while the boy on the right, in a red-and-black long-sleeved top, is playing the violin. Judging from their background, they should be on a balcony at home. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000063",
+    "filename": "combined_000063_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left, wearing a black short-sleeved top, is playing an electronic organ, while the boy on the right, in a red-and-black long-sleeved top, is playing the violin. Judging from their background, they should be on a balcony at home. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000064",
+    "filename": "combined_000064_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left, wearing a black short-sleeved top, is playing an electronic organ, while the boy on the right, in a red-and-black long-sleeved top, is playing the violin. Judging from their background, they should be on a balcony at home. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000065",
+    "filename": "combined_000065_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left, wearing a black short-sleeved top, is playing an electronic organ, while the boy on the right, in a red-and-black long-sleeved top, is playing the violin. Judging from their background, they should be on a balcony at home. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000066",
+    "filename": "combined_000066_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left with long bangs is playing the flute, while the slightly chubby boy on the right, although not holding any musical instrument, is actually using his throat as his instrument and performing beatboxing. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000067",
+    "filename": "combined_000067_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left with long bangs is playing the flute, while the slightly chubby boy on the right, although not holding any musical instrument, is actually using his throat as his instrument and performing beatboxing. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000068",
+    "filename": "combined_000068_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left with long bangs is playing the flute, while the slightly chubby boy on the right, although not holding any musical instrument, is actually using his throat as his instrument and performing beatboxing. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000069",
+    "filename": "combined_000069_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left with long bangs is playing the flute, while the slightly chubby boy on the right, although not holding any musical instrument, is actually using his throat as his instrument and performing beatboxing. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000070",
+    "filename": "combined_000070_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen performing music. The boy on the left with long bangs is playing the flute, while the slightly chubby boy on the right, although not holding any musical instrument, is actually using his throat as his instrument and performing beatboxing. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000071",
+    "filename": "combined_000071_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, four men can be seen performing musical instruments on the street. From left to right, the second and fourth men are playing accordions, the first man is playing a balalaika, and the third man is standing and playing the violin. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000072",
+    "filename": "combined_000072_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, four men can be seen performing musical instruments on the street. From left to right, the second and fourth men are playing accordions, the first man is playing a balalaika, and the third man is standing and playing the violin. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000073",
+    "filename": "combined_000073_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, four men can be seen performing musical instruments on the street. From left to right, the second and fourth men are playing accordions, the first man is playing a balalaika, and the third man is standing and playing the violin. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000074",
+    "filename": "combined_000074_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, four men can be seen performing musical instruments on the street. From left to right, the second and fourth men are playing accordions, the first man is playing a balalaika, and the third man is standing and playing the violin. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000075",
+    "filename": "combined_000075_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, four men can be seen performing musical instruments on the street. From left to right, the second and fourth men are playing accordions, the first man is playing a balalaika, and the third man is standing and playing the violin. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000076",
+    "filename": "combined_000076_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two men can be seen performing on drums. One is older and the other is younger, and they are coordinating with each other. There are also spectators watching nearby, and some even holding mobile phones to record the performance. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000077",
+    "filename": "combined_000077_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two men can be seen performing on drums. One is older and the other is younger, and they are coordinating with each other. There are also spectators watching nearby, and some even holding mobile phones to record the performance. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000078",
+    "filename": "combined_000078_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two men can be seen performing on drums. One is older and the other is younger, and they are coordinating with each other. There are also spectators watching nearby, and some even holding mobile phones to record the performance. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000079",
+    "filename": "combined_000079_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two men can be seen performing on drums. One is older and the other is younger, and they are coordinating with each other. There are also spectators watching nearby, and some even holding mobile phones to record the performance. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000080",
+    "filename": "combined_000080_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two men can be seen performing on drums. One is older and the other is younger, and they are coordinating with each other. There are also spectators watching nearby, and some even holding mobile phones to record the performance. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000081",
+    "filename": "combined_000081_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, a group of middle-aged and elderly people can be seen. They are wearing suit jackets on the upper body and plaid skirts on the lower body, and some of them are even holding crutches. The person leading the group is playing the Scottish bagpipes, guiding the team forward. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000082",
+    "filename": "combined_000082_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, a group of middle-aged and elderly people can be seen. They are wearing suit jackets on the upper body and plaid skirts on the lower body, and some of them are even holding crutches. The person leading the group is playing the Scottish bagpipes, guiding the team forward. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000083",
+    "filename": "combined_000083_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, a group of middle-aged and elderly people can be seen. They are wearing suit jackets on the upper body and plaid skirts on the lower body, and some of them are even holding crutches. The person leading the group is playing the Scottish bagpipes, guiding the team forward. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000084",
+    "filename": "combined_000084_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, a group of middle-aged and elderly people can be seen. They are wearing suit jackets on the upper body and plaid skirts on the lower body, and some of them are even holding crutches. The person leading the group is playing the Scottish bagpipes, guiding the team forward. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000085",
+    "filename": "combined_000085_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, a group of middle-aged and elderly people can be seen. They are wearing suit jackets on the upper body and plaid skirts on the lower body, and some of them are even holding crutches. The person leading the group is playing the Scottish bagpipes, guiding the team forward. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000086",
+    "filename": "combined_000086_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, sitting and wearing a beret, is playing an accordion. The man on the right, dressed in a black suit and standing, is playing a soprano saxophone. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000087",
+    "filename": "combined_000087_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, sitting and wearing a beret, is playing an accordion. The man on the right, dressed in a black suit and standing, is playing a soprano saxophone. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000088",
+    "filename": "combined_000088_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, sitting and wearing a beret, is playing an accordion. The man on the right, dressed in a black suit and standing, is playing a soprano saxophone. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000089",
+    "filename": "combined_000089_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, sitting and wearing a beret, is playing an accordion. The man on the right, dressed in a black suit and standing, is playing a soprano saxophone. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000090",
+    "filename": "combined_000090_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, two people can be seen performing musical instruments. The man on the left, sitting and wearing a beret, is playing an accordion. The man on the right, dressed in a black suit and standing, is playing a soprano saxophone. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000091",
+    "filename": "combined_000091_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, a boy wearing a purple short-sleeved shirt can be seen performing the drums confidently on the street. Behind him, a large crowd of adults and children has gathered to watch. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000092",
+    "filename": "combined_000092_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, a boy wearing a purple short-sleeved shirt can be seen performing the drums confidently on the street. Behind him, a large crowd of adults and children has gathered to watch. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000093",
+    "filename": "combined_000093_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, a boy wearing a purple short-sleeved shirt can be seen performing the drums confidently on the street. Behind him, a large crowd of adults and children has gathered to watch. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000094",
+    "filename": "combined_000094_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, a boy wearing a purple short-sleeved shirt can be seen performing the drums confidently on the street. Behind him, a large crowd of adults and children has gathered to watch. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "000095",
+    "filename": "combined_000095_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, a boy wearing a purple short-sleeved shirt can be seen performing the drums confidently on the street. Behind him, a large crowd of adults and children has gathered to watch. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  },
+  {
+    "video_id": "000096",
+    "filename": "combined_000096_bird.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "bird",
+    "annotation": "Based on the video, a woman can be seen sitting on a small stool playing the pipa. She has long braids and is wearing a red scarf. Behind her, there is a large black trash bin. Based on the audio,there is a sound of birds chirpin.Among them, it can be tell that there are not just one bird, but multiple birds, with their calls rising and falling one after another."
+  },
+  {
+    "video_id": "000097",
+    "filename": "combined_000097_drill.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "drill",
+    "annotation": "Based on the video, a woman can be seen sitting on a small stool playing the pipa. She has long braids and is wearing a red scarf. Behind her, there is a large black trash bin. Based on the audio,there is a sound of drilling.The drill starts with a low-pitched sound, then there is a brief period where its sound becomes sharp and high-pitched. After that, it returns to the initial low-pitched sound before gradually fading away."
+  },
+  {
+    "video_id": "000098",
+    "filename": "combined_000098_rain.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "rain",
+    "annotation": "Based on the video, a woman can be seen sitting on a small stool playing the pipa. She has long braids and is wearing a red scarf. Behind her, there is a large black trash bin. Based on the audio,there is a sound of rain falling.The rain is pattering continuously, and from the sound, it is evident that it is a heavy downpour."
+  },
+  {
+    "video_id": "000099",
+    "filename": "combined_000099_thunderstorm.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "thunderstorm",
+    "annotation": "Based on the video, a woman can be seen sitting on a small stool playing the pipa. She has long braids and is wearing a red scarf. Behind her, there is a large black trash bin. Based on the audio,there is a sound of thunder.There is only the sound of thunder, with no other sounds such as rain or wind. However, the thunderclaps follow one after another, continuing without end."
+  },
+  {
+    "video_id": "0000100",
+    "filename": "combined_0000100_wind.mp4",
+    "question": "Describe what you see and what you hear. The output format should be as follows: Based on the video...\nBased on the audio...",
+    "sound_type": "wind",
+    "annotation": "Based on the video, a woman can be seen sitting on a small stool playing the pipa. She has long braids and is wearing a red scarf. Behind her, there is a large black trash bin. Based on the audio,there is a sound of wind blowing.The wind varies in intensity—now strong, now weak—but judging from the sound, it must be a strong, gale-force wind, howling as it comes and howling as it goes."
+  }
+]

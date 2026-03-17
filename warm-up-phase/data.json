@@ -1,0 +1,1332 @@
+[
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000238.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are two instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows two women playing violin and cello on stage. </v-think>\n<answer> two </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000150.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments in the video did not sound from beginning to end?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are zero instruments that did not sound from beginning to end. </a-think> <v-think> Based on the video, the video shows two men playing the accordion and flute. Both instruments are sounding throughout the video from beginning to end. </v-think>\n<answer> zero </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000136.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Is the instrument on the left louder than the instrument on the right?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instruments are not louder or softer than each other. </a-think> <v-think> Based on the video, the video shows a group of people playing music in a room. The instruments are all playing together in harmony. </v-think>\n<answer> no </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000031.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding guzheng in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are six guzheng sounds in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing instruments on stage. </v-think>\n<answer> six </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000250.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Is the accordion in the video always playing?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the accordion is always playing in the video. </a-think> <v-think> Based on the video, the video shows  two people outside with one playing the accordion and the other the trumpet. </v-think>\n<answer> yes </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000270.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding clarinet in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there is one sounding clarinet in the video. </a-think> <v-think> Based on the video, the video shows two people in formal attire in a music room, one playing a flute and the other a clarinet. </v-think>\n<answer> one </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000074.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding cello in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are four cellos sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing cellos in a church. </v-think>\n<answer> four </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000143.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many types of musical instruments sound in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are three types of musical instruments sounding in the video: guitar, violin, and bass. </a-think> <v-think> Based on the video, the video shows three young men playing the guitar, bass and violin in a room. </v-think>\n<answer> three </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000247.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are seven instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing accordions in a room. </v-think>\n<answer> seven </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000097.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding pipa in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are five sounding pipa in the video. </a-think> <v-think> Based on the video, the video shows five people sitting on chairs playing musical instruments. </v-think>\n<answer> five </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000028.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the acoustic_guitar?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, at the same time as the acoustic guitar, there is a ukulele sound in the background. </a-think> <v-think> Based on the video, the video shows three people on the street: one playing an acoustic guitar, another playing a ukulele, and the third singing. </v-think>\n<answer> ukulele </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000272.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instrument on the right is sounding first. </a-think> <v-think> Based on the video, the video shows two men in a living room, one playing the guitar and the other playing the trumpet. </v-think>\n<answer> right </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000209.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the flute?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, at the same time as the flute, the piano is also sounding. </a-think> <v-think> Based on the video, the video shows two women in front of a Christmas tree, one playing the piano and the other playing the flute. </v-think>\n<answer> piano </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000251.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first sounding instrument is on the left. </a-think> <v-think> Based on the video, the video shows a group of people playing saxophones in front of an ancient building. </v-think>\n<answer> left </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002814.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the accordion is the first instrument that comes in, followed by the violin. </a-think> <v-think> Based on the video, the video shows two men playing the accordion and violin in a room. </v-think>\n<answer> accordion </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000400.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the third instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the third instrument that comes in is a clarinet. </a-think> <v-think> Based on the video, the video shows two girls in dresses playing music in front of a piano. The girls are playing the piano. </v-think>\n<answer> clarinet </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000188.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the pipa?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, both the pipa and guzheng are sounding at the same time, creating a harmonious and beautiful sound. </a-think> <v-think> Based on the video, the video shows two women playing musical instruments in a classroom. </v-think>\n<answer> guzheng </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005616.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the second instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the second instrument to come in is the cello. </a-think> <v-think> Based on the video, the video shows three people playing violin, piano and cello in a concert. </v-think>\n<answer> cello </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00003220.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding cello in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are more than ten cellos sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing cellos in a room. </v-think>\n<answer> more than ten </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008578.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding cello in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are nine cellos sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing cellos in a church. </v-think>\n<answer> nine </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000883.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the banjo?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, both the banjo and violin are sounding at the same time, creating a harmonious and beautiful sound. </a-think> <v-think> Based on the video, the video shows a man and a girl playing the banjo and violin together. </v-think>\n<answer> violin </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001711.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the loudest instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the loudest instrument is the cello, which is located in the right of the room. </a-think> <v-think> Based on the video, the video shows three men playing violin, flutes and cello in a room. </v-think>\n<answer> right </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008569.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the xylophone?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, at the same time as the xylophone, an acoustic guitar is sounding in the background. </a-think> <v-think> Based on the video, the video shows a woman playing the xylophone with a man sitting next to her. </v-think>\n<answer> acoustic_guitar </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007449.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the violin?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the violin and banjo are both sounding at the same time, creating a harmonious and lively atmosphere. </a-think> <v-think> Based on the video, the video shows a man and woman playing music in a living room. </v-think>\n<answer> banjo </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002131.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the electric bass. </a-think> <v-think> Based on the video, the video shows a man and woman playing music in a room. </v-think>\n<answer> electric_bass </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008549.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding bassoon in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are ten bassoon sounds in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing instruments in a parking lot. </v-think>\n<answer> ten </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005247.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many sounding accordion in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are eight accordions sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing accordions in a room. </v-think>\n<answer> eight </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007198.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the flute is the first instrument that comes in. </a-think> <v-think> Based on the video, the video shows two women on stage, one playing a flute and the other playing erhu.  </v-think>\n<answer> flute </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001768.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which xylophone makes the sound first?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the sound is produced simultaneously by both instruments. </a-think> <v-think> Based on the video, the video shows two people playing marimba with wooden sticks. </v-think>\n<answer> simultaneously </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001495.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the saxophone. </a-think> <v-think> Based on the video, the video shows a group of men in suits and hats playing saxophones. </v-think>\n<answer> saxophone </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00003562.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which instrument makes sounds before the trumpet?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the trumpet makes sounds before the other instruments. </a-think> <v-think> Based on the video, the video shows a man playing the trumpet in a room. </v-think>\n<answer> trumpet </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005781.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the violin?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, at the same time as the violin, there is a bassoon sound in the background. </a-think> <v-think> Based on the video, the video shows a man and woman playing music in a classroom. </v-think>\n<answer> bassoon </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002483.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which instrument makes sounds after the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the erhu makes sounds after the piano. </a-think> <v-think> Based on the video, the video shows two young people playing musical instruments in a classroom. The instruments they are playing are an erhu and a piano. </v-think>\n<answer> erhu </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00004961.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which instrument makes sounds after the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, after the piano, the xylophone makes sounds. </a-think> <v-think> Based on the video, the video shows a group of people playing music on stage. </v-think>\n<answer> xylophone </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005386.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, both the piano and tuba are sounding at the same time, creating a harmonious and lively atmosphere. </a-think> <v-think> Based on the video, the video shows a group of people playing music in a room. A woman is playing a piano, while a man is playing a tuba. </v-think>\n<answer> tuba </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001480.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the drums. </a-think> <v-think> Based on the video, the video shows a boy playing drums in a room with blue walls. </v-think>\n<answer> drum </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001364.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the second instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the second instrument that comes in is congas. </a-think> <v-think> Based on the video, the video shows two men playing drums in front of a house. The men are playing drums on a porch, creating a lively and energetic atmosphere. </v-think>\n<answer> congas </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00004598.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the pipa is the first instrument that comes in. </a-think> <v-think> Based on the video, the video shows a young girl playing the pipa on stage. </v-think>\n<answer> pipa </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00004857.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument that comes in is the bagpipe, played by a man in uniform. </a-think> <v-think> Based on the video, the video shows a man holding a bagpipe and playing the bagpipes. </v-think>\n<answer> bagpipe </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005861.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the suona, a traditional Chinese instrument. </a-think> <v-think> Based on the video, the video shows two men playing instruments on a street in China. </v-think>\n<answer> suona </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000024.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are two instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows two images of a boy playing the trumpet. </v-think>\n<answer> two </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000272.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments in the video did not sound from beginning to end?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, all the instruments in the video sound from beginning to end. </a-think> <v-think> Based on the video, the video shows two men playing instruments and singing in a living room. </v-think>\n<answer> zero </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000085.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Is there a voiceover?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there is no voiceover in the video. </a-think> <v-think> Based on the video, the video shows two man playing the instruments in a beautiful landscape. The sun is shining brightly, and the sound of the instruments is clear and crisp. </v-think>\n<answer> no </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000232.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are six instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people on stage playing instruments. </v-think>\n<answer> six </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000225.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Is there a voiceover?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there is a voiceover in the video, and the voiceover is speaking in a soft and gentle tone. </a-think> <v-think> Based on the video, the video shows a man playing the trumpet in front of a tree. </v-think>\n<answer> yes </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000147.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many types of musical instruments sound in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there is one type of musical instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows four women playing musical instruments on stage. </v-think>\n<answer> one </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000015.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are four instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows four men playing musical instruments in a room. </v-think>\n<answer> four </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000249.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many types of musical instruments sound in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are three types of musical instruments sounding in the video. </a-think> <v-think> Based on the video, the video features three women playing music on stage in front of a piano. </v-think>\n<answer> three </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006713.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are seven instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people sitting on the sidewalk playing musical instruments. </v-think>\n<answer> seven </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00001959.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are five instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows five older men playing music in a living room. </v-think>\n<answer> five </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005109.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the left instrument of the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the left instrument is a ukulele. </a-think> <v-think> Based on the video, the video shows two men sitting in a park playing ukuleles. </v-think>\n<answer> ukulele </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00004155.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the loudest instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the loudest instrument is the saxophone, which is played by the man on the right. </a-think> <v-think> Based on the video, the video shows two men playing music on a street at night. </v-think>\n<answer> right </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008057.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the piano is the first instrument that comes in. </a-think> <v-think> Based on the video, the video shows a woman playing the piano in a mall. </v-think>\n<answer> piano </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000051.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instrument on the left is sounding first. </a-think> <v-think> Based on the video, the video shows two people playing musical instruments in a room. </v-think>\n<answer> left </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002814.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the accordion is the first instrument that comes in, followed by the violin. </a-think> <v-think> Based on the video, the video shows two men playing the accordion and violin in a room. The men are playing in harmony, creating a beautiful and lively sound. </v-think>\n<answer> accordion </answer>"
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the third instrument that comes in is a clarinet. </a-think> <v-think> Based on the video, the video shows two girls in dresses playing music in front of a piano. The girls are playing violin and cello. </v-think>\n<answer> clarinet </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008635.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instrument is a guzheng, which is a traditional Chinese musical instrument. </a-think> <v-think> Based on the video, the video shows a woman playing a musical instrument in the leaves. </v-think>\n<answer> guzheng </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005200.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the violin?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, both the violin and cello are sounding at the same time, creating a beautiful harmony. </a-think> <v-think> Based on the video, the video shows two men playing violin and cello in an orchestra room. </v-think>\n<answer> cello </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006123.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are more than ten instruments sounding in the video, including the saxophone, tuba, violin, and brass instruments. </a-think> <v-think> Based on the video, the video shows a man playing a saxophone on stage. The video also shows a group of people playing music on stage, including a harp player and an orchestra. </v-think>\n<answer> more than ten </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008598.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many instruments are sounding in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are nine instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of young men playing accordions in a room. </v-think>\n<answer> nine </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000996.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the guzheng?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the violin and guzheng are both sounding at the same time, creating a beautiful harmony. </a-think> <v-think> Based on the video, the video shows two women playing music on a violin and a guzheng. The use of pink in the room creates a cozy and intimate atmosphere, perfect for creating music. </v-think>\n<answer> violin </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008260.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Where is the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first sounding instrument is the bagpipes, which is located in the middle. </a-think> <v-think> Based on the video, the video shows a man and a woman in a kilt playing bagpipes in the backyard. </v-think>\n<answer> middle </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002802.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the guzheng?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the guzheng and acoustic guitar are both sounding at the same time. </a-think> <v-think> Based on the video, the video shows a man and woman playing music in a recording studio. </v-think>\n<answer> acoustic_guitar </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00003325.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the violin?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instruments they are playing are a violin and a banjo. Both instruments are sounding at the same time, creating a harmonious and beautiful sound. </a-think> <v-think> Based on the video, the video shows two men playing instruments in a studio. The studio is filled with artwork, including a sculpture and a painting of a horse, adding to the creative and inspiring atmosphere. </v-think>\n<answer> banjo </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00004835.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the electric bass guitar and the piano are both sounding at the same time. </a-think> <v-think> Based on the video, the video shows a man playing an electric bass guitar on the street. At the same time, a man is playing an old piano in the background. </v-think>\n<answer> electric_bass </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00002096.mp4"
+            },
+            {
+                "type": "text",
+                "text": "How many types of musical instruments sound in the video?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, there are eight types of musical instruments sounding in the video. </a-think> <v-think> Based on the video, the video shows a group of people playing various instruments in a park. The instruments are being played by a diverse group of people, creating a lively and energetic atmosphere. </v-think>\n<answer> eight </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007356.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which instrument makes sounds after the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the flute is playing a soft melody in the background, complementing the woman's voice. The piano is also playing a gentle tune, adding depth to the overall sound. </a-think> <v-think> Based on the video, the video shows a woman and a man playing music instruments in a church. She is singing with a beautiful voice. The atmosphere is peaceful and serene, creating a perfect setting for a worship service or any other religious event. </v-think>\n<answer> flute </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00000905.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which flute makes the sound last?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the flutes are making a sound that lasts simultaneously. </a-think> <v-think> Based on the video, the video shows a group of people playing music in a room. </v-think>\n<answer> simultaneously </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00003471.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the saxophone is the first instrument that comes in. </a-think> <v-think> Based on the video, the video shows a man playing the saxophone in a recording studio. The video also shows a man playing an electric guitar in the same studio. </v-think>\n<answer> saxophone </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006647.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the piano and trumpet are both sounding at the same time, creating a harmonious and lively atmosphere. </a-think> <v-think> Based on the video, the video shows two men playing music in a recording studio. </v-think>\n<answer> trumpet </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00005879.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the saxophone?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instruments being played include a saxophone and a bassoon, which are both sounding at the same time. </a-think> <v-think> Based on the video, the video shows a group of students playing music in a classroom. </v-think>\n<answer> bassoon </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007950.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the erhu, which is a traditional Chinese musical instrument. </a-think> <v-think> Based on the video, the video shows two women playing musical instruments in a room. </v-think>\n<answer> erhu </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007265.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the piano?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the instruments are a piano and a xylophone, which sound at the same time. </a-think> <v-think> Based on the video, the video shows two people playing musical instruments on a wooden floor. </v-think>\n<answer> xylophone </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006656.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the tuba. </a-think> <v-think> Based on the video, the video shows a man playing music sitting on a bench in front of a building. </v-think>\n<answer> tuba </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00007647.mp4"
+            },
+            {
+                "type": "text",
+                "text": "Which is the musical instrument that sounds at the same time as the saxophone?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, at the same time as the saxophone, there is a drum sound in the background. </a-think> <v-think> Based on the video, the video shows a woman playing the saxophone in a room with a man. </v-think>\n<answer> drum </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006933.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the left instrument of the first sounding instrument?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the left instrument is a conga drum. </a-think> <v-think> Based on the video, the video shows two men sitting next to each other playing drums. </v-think>\n<answer> congas </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00003442.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the pipa. </a-think> <v-think> Based on the video, the video shows a man playing pipa and a large stage with lights. </v-think>\n<answer> pipa </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00006376.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the bagpipes are the first instrument that comes in. </a-think> <v-think> Based on the video, the video shows a man in a tie and shirt playing the bagpipes. </v-think>\n<answer> bagpipe </answer>"
+    },
+    {
+        "role": "user",
+        "content": [
+            {
+                "type": "audio",
+                "audio_url": "./00008921.mp4"
+            },
+            {
+                "type": "text",
+                "text": "What is the first instrument that comes in?"
+            }
+        ]
+    },
+    {
+        "role": "assistant",
+        "content": "<a-think> Based on the audio, the first instrument to come in is the suona. </a-think> <v-think> Based on the video, the video shows a young man in glasses playing a suona on stage. </v-think>\n<answer> suona </answer>"
+    }
+] 
