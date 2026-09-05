@@ -1,7 +1,11 @@
 # AVConfusion
 [AAAI’26] Official Implementation for When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?
 
-[![中关村学院 GitHub 组织](https://github.com/bjzgcai)](https://github.com/bjzgcai)
+<p align="center">
+  <a href="https://github.com/bjzgcai">
+    <img src="https://img.shields.io/badge/Linked%20to-bjzgcai%20Org-blue?logo=github">
+  </a>
+</p>
 
 ## 1. Overview
 
